@@ -3,7 +3,7 @@
 Summary:	Crypt-RIPEMD160 module for perl 
 Name:		perl-%{real_name}
 Version:	0.04
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
