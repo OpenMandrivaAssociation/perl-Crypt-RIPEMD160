@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 7
+Release:    8
 
 Summary:	Crypt-RIPEMD160 module for perl 
 License:	GPL+ or Artistic
